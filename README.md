@@ -8,7 +8,7 @@
 
 ### 获取主题
 
-- 示例：<https://bioit.top>
+- 示例：<https://github.com/dwbgithub/Website>
 - 源码：[NavPage-Insiders](https://github.com/NavPage/NavPage-Insiders)
 - 主题：[NavPage-Hugo-Theme](https://github.com/NavPage/NavPage-Hugo-Theme)
 
